@@ -1,0 +1,6 @@
+{
+  "name": "Cadence — Task & Note Workspace",
+  "description": "A clean, interactive To-Do task manager and studio scratchpad with real-time completion progress analytics, per-item reminders, and localStorage persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
